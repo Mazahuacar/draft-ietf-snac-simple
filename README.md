@@ -1,3 +1,4 @@
+
 # Stub Network AutoConfiguration (SNAC)
 
 This is the working area for the Working Group internet-draft, "Automatically Connecting Stub Networks to Unmanaged Infrastructure".
